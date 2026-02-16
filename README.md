@@ -1,4 +1,4 @@
-# Learning Git
+# Learning Git Commands
 
 A memory map for the Git command which I use from time to time. These are most used git commands.
 
